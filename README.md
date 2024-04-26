@@ -20,7 +20,7 @@ These are taks for Mission:
 3. Show on a card the net sales.
 4. Show on a card the gross margin percentage.
 5. Show in a graph the net sales by category and subcategory of the product.
-6. Perform all the necessary analyses to understand what led the droop in margin percentage during May and June.
+6. Perform all the necessary analyses to understand what led the drop in margin percentage during May and June.
 
 
 ## Skills Learnt - 
